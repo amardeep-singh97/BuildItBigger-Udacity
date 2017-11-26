@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BuildItBigger</string>
+    <string name="fetchjoke">Fetching a funny joke .....</string>
+    <string name="button_text">Get Joke</string>
+</resources>
